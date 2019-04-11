@@ -21,3 +21,7 @@ DBF to CSV
 Function makes use of the dbf read module which will input a dbf and output a csv file in the same location as the DBF files.
 Please note that not all DBF files can be read in Excel or the Statistical R Package, this the birth of this function.
 This function can also be mapped to several files in an interation.
+
+DBF and CSV Functions
+- This outlines some useful functions and operations (borrowed code) to convert files from dbf files into csv files or pandas dataframes for further analysis. 
+

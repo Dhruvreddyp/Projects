@@ -4,7 +4,7 @@ Individual Data science projects are in this repository
 Predicting whether a mammogram mass is benign or malignant
 - Using a publicly availble dataset, a model was created using 10 cells of the Jupyter notebook in order to predict 
 whether a given mammogram mass was cancerous or not. 
-Outlines type of work that was done for the Director of Apollo Cancer Institute's Oncology building.  
+Outlines type of work that was done for the Director of Apollo Cancer Institute's Oncology divisoin.  
 
 Neurogenomics
 - Several different studies used statistical methods to aggregate findings and cluster data in order to make

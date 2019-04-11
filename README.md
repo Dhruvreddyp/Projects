@@ -24,14 +24,23 @@ Function makes use of the dbf read module which will input a dbf and output a cs
 Please note that not all DBF files can be read in Excel or the Statistical R Package, this the birth of this function.
 This function can also be mapped to several files in an interation.
 
+NJ Liquor Store Sales
+- This image depicts a sample Dashboard created using sales data of all NJ liquor Stores for one week (March 24th 2019). 
+Data was pulled using a tool created specifically for POS (point of sale) systems where data from each store is aggregated into a DBF file every week. Data from several stores were munged into one file and then analyzed. 
+Data Mining occurs when knowledge is extracted from data. 
+Data Science is the Automation of Data Mining. 
+The goal here is to provide valuable knowledge or insights through an automated process. 
+Outlines work for ASI. 
+
 DBF and CSV Functions
 - This outlines some useful functions and operations (borrowed code) to convert files from dbf files into csv files or pandas dataframes for further analysis. 
 
-Argonaut Liquor Data Analysis (Pre-processing)
+Argonaut Liquor Data Analysis
 - This incorporates some of the work done with ASI involving an end-to-end Data project. 
 Several DBF files were pulled through SQL and Oracle databases. 
 Data was converted into CSV formats, which are much more usable. 
 Several CSV files were merged into one file for transfer into a Pandas Dataframe. 
 Incomplete data and unexplainable outliers were removed. 
+Visualization to peek at the data. 
 (In Progress)
 

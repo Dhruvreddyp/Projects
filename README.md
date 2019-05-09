@@ -35,8 +35,8 @@ Outlines work for ASI.
 DBF and CSV Functions
 - This outlines some useful functions and operations (borrowed code) to convert files from dbf files into csv files or pandas dataframes for further analysis. 
 
-Argonaut Liquor Data Analysis
-- This incorporates some of the work done with ASI involving an end-to-end Data project. 
+Liquor Data Analysis
+- This incorporates some of the work done involving an end-to-end Data project. 
 Several DBF files were pulled through SQL and Oracle databases. 
 Data was converted into CSV formats, which are much more usable. 
 Several CSV files were merged into one file for transfer into a Pandas Dataframe. 

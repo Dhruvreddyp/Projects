@@ -1,7 +1,11 @@
 # Projects
 Data science projects are in this repository
 
-# Using Trump Messages to Predict S&P 500 Stock Index (https://sites.google.com/g.harvard.edu/team51/home)
+# Using Trump Messages to Predict S&P 500 Stock Index 
+Published Site https://sites.google.com/g.harvard.edu/team51/home
+The S&P 500 index has been fluctuating constantly as described in previous sections of the paper. 
+Trump's Tweets as President of the United States has had relevant impact and now can be used to model the stock market, particularly the S&P500.
+
 - Please checkout my full repo for this end-to-end project at https://github.com/Dhruvreddyp/SP500Prediction
 
 # Credit Risk Analysis
